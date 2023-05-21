@@ -19,7 +19,7 @@ QUIZ = Q+U+I+Z = 10 + 1 + 1 + 10 = 22
 
 APPLE = A+P+P+L+E = 1 + 3 + 3 + 1 + 1 = 9
 
-For this project you will be provided with a list of 500 common names in main.py
+Provided with a list of 500 common names
 
 Complete the Python program so that it prints the sum of Scrabble scores of all names from that list that has the following properties:
 
